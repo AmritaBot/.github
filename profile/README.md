@@ -14,7 +14,7 @@ Our core project [Amrita](https://github.com/AmritaBot/Amrita) is a powerful cha
 
 ### AmritaCore - Awesome Agent Core SDK
 
-[AmritaCore](https://github.com/AmritaBot/AmritaCore) is the core project that provides essential functionalities and utilities for the Amrita framework.It's a lightweight, modern and powerful Agent ADK.
+[AmritaCore](https://github.com/AmritaBot/AmritaCore) is the core project that provides essential functionalities and utilities for the Amrita framework.It's a lightweight, modern and powerful Agent SDK.
 
 ## Vision and Mission
 
