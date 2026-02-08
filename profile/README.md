@@ -1,35 +1,50 @@
-# AmritaBot 组织简介
+# AmritaBot Organization Introduction
 
-## 关于我们
+## About Us
 
-AmritaBot 是一个专注于开发智能聊天机器人框架的开源组织。我们致力于为开发者提供强大、易用且功能丰富的聊天机器人解决方案，让每个人都能轻松构建和部署自己的智能聊天机器人。
+AmritaBot is an open-source organization focused on developing intelligent chatbot frameworks. We are dedicated to providing developers with powerful, easy-to-use, and feature-rich chatbot solutions, enabling everyone to easily build and deploy their own intelligent chatbots.
 
-## 核心项目
+## Core Projects
 
-### Amrita - 智能聊天机器人框架
+### Amrita - Intelligent Chatbot Framework
 
-我们的核心项目 [Amrita](https://github.com/AmritaBot/Amrita) 是一个基于 [NoneBot2](https://nonebot.dev/) 的强大聊天机器人框架，专为快速构建和部署智能聊天机器人而设计。它是一个完整的 LLM 聊天智能体机器人解决方案，支持多种大语言模型和适配器。
+Our core project [Amrita](https://github.com/AmritaBot/Amrita) is a powerful chatbot framework based on [NoneBot2](https://nonebot.dev/), designed for rapidly building and deploying intelligent chatbots. It is a complete LLM chat intelligent agent robot solution, supporting multiple large language models and adapters.
 
-## 愿景与使命
+**Special Note:** Amrita is a NoneBot-based bot project.
 
-我们的愿景是让智能聊天机器人的开发变得更加简单和普及。
+### AmritaCore - Awesome Agent Core SDK
 
-使命：
-- 提供高质量、易用的聊天机器人开发工具
-- 推动聊天机器人技术的普及和应用
-- 构建活跃的开源社区，促进技术交流和共享
+[AmritaCore](https://github.com/AmritaBot/AmritaCore) is the core project that provides essential functionalities and utilities for the Amrita framework.It's a lightweight, modern and powerful Agent ADK.
 
-## 社区与支持
+## Vision and Mission
 
-我们重视社区建设和用户支持：
+Our vision is to make the development of intelligent chatbots simpler and more accessible.
 
-- 提供详尽的[文档](https://amrita.suggar.top)和教程
-- 活跃的社区支持和交流平台
-- 定期更新和维护，确保项目稳定性和安全性
-- 开放的插件生态系统，支持功能扩展
+Mission:
+- Provide high-quality, easy-to-use chatbot development tools
+- Promote the popularization and application of chatbot technology
+- Build an active open-source community to foster technical exchange and sharing
 
-## 加入我们
+## Community and Support
 
-无论您是想要使用我们的工具构建聊天机器人，还是希望为项目贡献代码，或是参与社区讨论，都欢迎加入 AmritaBot 组织！
+We value community building and user support:
 
-让我们一起构建更智能、更有趣的聊天机器人世界！
+- Comprehensive [documentation](https://amrita.suggar.top) and tutorials
+- [AmritaCore Docs](https://amrita-core.suggar.top/)
+- Active community support and communication platforms
+- Regular updates and maintenance to ensure project stability and security
+- Open plugin ecosystem supporting functional extensions
+
+## Contact Us
+
+Join our communities for support and discussions:
+
+- Telegram: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+QRrsNnLUUSc1NzM1)
+- QQ Group: [![QQ](https://img.shields.io/badge/QQ-eb1923?style=for-the-badge&logo=tencent-qq&logoColor=white)](https://qm.qq.com/cgi-bin/qm/qr?k=1006893368) (Group ID: 1006893368)
+- Discord: [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/byAD3sbjjj)
+
+## Join Us
+
+Whether you want to use our tools to build chatbots, contribute code to the project, or participate in community discussions, you are welcome to join the AmritaBot organization!
+
+Let's build a smarter and more interesting chatbot world together!
