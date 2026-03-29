@@ -1,64 +1,58 @@
 # AmritaBot Organization Introduction
 
 ## About Us
-
-AmritaBot is an open-source organization focused on developing intelligent chatbot frameworks. We are dedicated to providing developers with powerful, easy-to-use, and feature-rich chatbot solutions, enabling everyone to easily build and deploy their own intelligent chatbots.
+AmritaBot is an open-source organization dedicated to building a high-performance, lightweight, full-stack **AI Agent ecological system (Project.Amrita)**. We focus on solving the pain points of heavyweight architecture, low concurrency and complex secondary development existing in mainstream Agent frameworks. We provide developers with out-of-the-box, modular and highly extensible underlying infrastructure and application solutions for AI Agents, lowering the threshold for intelligent agent development and deployment.
 
 ## Core Projects & Project Status
+The Project.Amrita ecosystem has **five core independent projects** in total.
+Current progress: **AmritaCore and AmritaBot are officially available for production use**; **AmritaBase、AmritaSense、AmritaAgent are under intensive development**.
 
-We have planned five core projects in total. Currently, **AmritaSense, AmritaAgent, and AmritaBase are still under construction**, and only **AmritaCore and AmritaBot are available for use**.
-
-### 1. AmritaBot - Intelligent Chatbot Robot
-Project: [AmritaBot](https://github.com/AmritaBot/AmritaBot)  
-Based on [NoneBot2](https://nonebot.dev/), it is a complete LLM chat intelligent agent robot solution, supporting multiple large language models and adapters.  
+### 1. AmritaBot - Integrated LLM Agent Chat Robot
+Project: [AmritaBot](https://github.com/AmritaBot/AmritaBot)
+Built based on NoneBot2, it is a complete industrial-grade LLM intelligent agent bot solution. It has native concurrent security permission system, visual WebUI management panel, supports multiple large language model access and multi-adapter compatibility, and enables one-click deployment of scenario-oriented intelligent chat/functional agents.
 **Status: Available**
 
-### 2. AmritaCore - Awesome Agent Core SDK
-Project: [AmritaCore](https://github.com/AmritaBot/AmritaCore)  
-A lightweight, modern and powerful Agent SDK that provides essential functionalities and utilities for the entire framework ecosystem.  
+### 2. AmritaCore - High-Performance Agent Runtime Core Framework
+Project: [AmritaCore](https://github.com/AmritaBot/AmritaCore)
+The underlying core runtime of the entire Amrita ecosystem. It features an independent pluggable event system, Depends concurrent condition matching, permission verification and context injection mechanism. It is built with the **Sense custom instruction virtual machine**, supports task interrupt/resume/callback queue execution, and is a lightweight, high-concurrency Agent core SDK.
 **Status: Available**
 
-### 3. AmritaSense - Perception Module
-Focuses on context perception, intent recognition, and multi-modal understanding.  
+### 3. AmritaSense - Modern Agent Workflow Engine
+Positioning: A modern alternative to LangGraph, dedicated to visual orchestration, complex multi-step task planning, state management and distributed intelligent agent workflow scheduling, empowering customized arrangement of complex Agent business logic.
 **Status: Under Construction**
 
-### 4. AmritaAgent - Advanced Agent Orchestration
-Responsible for agent scheduling, memory management, tool calling, and complex task planning.  
+### 4. AmritaAgent - Advanced Autonomous Agent Orchestration Layer
+Responsible for multi-agent scheduling, long-term memory management, native tool calling capability, autonomous decision-making and complex cross-task collaborative planning, providing upper-layer autonomous intelligent agent core capabilities for the entire ecosystem.
 **Status: Under Construction**
 
-### 5. AmritaBase - Infrastructure & Service Base
-Provides deployment platform, management console, cluster support and underlying service capabilities.  
+### 5. AmritaBase - Lightweight LLM Application Infrastructure
+Positioning: A lightweight alternative to LangChain, providing underlying basic capabilities including LLM tool encapsulation, vector context management, memory storage and general AI component abstraction, simplifying the development of underlying LLM application modules.
 **Status: Under Construction**
 
 ## Vision and Mission
-
-Our vision is to make the development of intelligent chatbots simpler and more accessible.
+Our vision: Make the development of high-performance customized AI Agents simple, efficient and accessible to every developer.
 
 Mission:
-- Provide high-quality, easy-to-use chatbot development tools
-- Promote the popularization and application of chatbot technology
-- Build an active open-source community to foster technical exchange and sharing
+- Deliver lightweight, high-concurrency, production-grade AI Agent underlying frameworks & tools
+- Break technical barriers of mainstream heavyweight Agent ecosystems and reduce secondary development costs
+- Build an open and collaborative Chinese & global AI Agent open-source community
+- Promote the popularization and industrial landing of localized, customizable intelligent agent applications
 
 ## Community and Support
-
-We value community building and user support:
-
-- Comprehensive [documentation](https://amrita.suggar.top) and tutorials
-- [AmritaCore Docs](https://amrita-core.suggar.top/)
-- Active community support and communication platforms
-- Regular updates and maintenance to ensure project stability and security
-- Open plugin ecosystem supporting functional extensions
+We provide comprehensive official supporting resources and long-term community maintenance:
+- Integrated official [AmritaBot documentation](https://amrita.suggar.top) & beginner tutorials
+- Independent [AmritaCore dedicated docs](https://amrita-core.suggar.top/) for underlying development
+- Active multi-platform community interaction & technical Q&A
+- Regular version iteration, security maintenance & performance optimization
+- Open plug-in extension ecosystem, supporting personalized functional customization
 
 ## Contact Us
-
-Join our communities for support and discussions:
-
+Join our multi-platform communities for technical communication, feature discussion and problem feedback:
 - Telegram(Chinese): [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+QRrsNnLUUSc1NzM1)
 - QQ Group: [![QQ](https://img.shields.io/badge/QQ-eb1923?style=for-the-badge&logo=tencent-qq&logoColor=white)](https://qm.qq.com/cgi-bin/qm/qr?k=1006893368) (Group ID: 1006893368)
 - Discord: [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/byAD3sbjjj)
 
 ## Join Us
+Whether you are an individual developer using Amrita series frameworks to build AI Agent applications, an open-source contributor participating in code development & document optimization, or a technology enthusiast engaging in community exchanges, you are warmly welcome to join the AmritaBot open-source organization!
 
-Whether you want to use our tools to build chatbots, contribute code to the project, or participate in community discussions, you are welcome to join the AmritaBot organization!
-
-Let's build a smarter and more interesting chatbot world together!
+Let's build a lighter, faster, more powerful intelligent AI Agent world together!
