@@ -40,8 +40,8 @@ Mission:
 
 ## Community and Support
 We provide comprehensive official supporting resources and long-term community maintenance:
-- Integrated official [AmritaBot documentation](https://amrita.suggar.top) & beginner tutorials
-- Independent [AmritaCore dedicated docs](https://amrita-core.suggar.top/) for underlying development
+- Integrated official [AmritaBot documentation](https://bot.amritabot.com)/ & beginner tutorials
+- Independent [AmritaCore dedicated docs](https://core.amritabot.com/) for underlying development
 - Active multi-platform community interaction & technical Q&A
 - Regular version iteration, security maintenance & performance optimization
 - Open plug-in extension ecosystem, supporting personalized functional customization
