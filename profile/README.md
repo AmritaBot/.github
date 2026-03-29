@@ -4,17 +4,31 @@
 
 AmritaBot is an open-source organization focused on developing intelligent chatbot frameworks. We are dedicated to providing developers with powerful, easy-to-use, and feature-rich chatbot solutions, enabling everyone to easily build and deploy their own intelligent chatbots.
 
-## Core Projects
+## Core Projects & Project Status
 
-### Amrita - Intelligent Chatbot Framework
+We have planned five core projects in total. Currently, **AmritaSense, AmritaAgent, and AmritaBase are still under construction**, and only **AmritaCore and AmritaBot are available for use**.
 
-Our core project [Amrita](https://github.com/AmritaBot/Amrita) is a powerful chatbot framework based on [NoneBot2](https://nonebot.dev/), designed for rapidly building and deploying intelligent chatbots. It is a complete LLM chat intelligent agent robot solution, supporting multiple large language models and adapters.
+### 1. AmritaBot - Intelligent Chatbot Robot
+Project: [AmritaBot](https://github.com/AmritaBot/AmritaBot)  
+Based on [NoneBot2](https://nonebot.dev/), it is a complete LLM chat intelligent agent robot solution, supporting multiple large language models and adapters.  
+**Status: Available**
 
-**Special Note:** Amrita is a NoneBot-based bot project.
+### 2. AmritaCore - Awesome Agent Core SDK
+Project: [AmritaCore](https://github.com/AmritaBot/AmritaCore)  
+A lightweight, modern and powerful Agent SDK that provides essential functionalities and utilities for the entire framework ecosystem.  
+**Status: Available**
 
-### AmritaCore - Awesome Agent Core SDK
+### 3. AmritaSense - Perception Module
+Focuses on context perception, intent recognition, and multi-modal understanding.  
+**Status: Under Construction**
 
-[AmritaCore](https://github.com/AmritaBot/AmritaCore) is the core project that provides essential functionalities and utilities for the Amrita framework.It's a lightweight, modern and powerful Agent SDK.
+### 4. AmritaAgent - Advanced Agent Orchestration
+Responsible for agent scheduling, memory management, tool calling, and complex task planning.  
+**Status: Under Construction**
+
+### 5. AmritaBase - Infrastructure & Service Base
+Provides deployment platform, management console, cluster support and underlying service capabilities.  
+**Status: Under Construction**
 
 ## Vision and Mission
 
