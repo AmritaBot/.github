@@ -29,7 +29,7 @@ Built based on NoneBot2, it is a complete industrial-grade LLM intelligent agent
 
 ### 2. AmritaCore - High-Performance Agent Runtime Core Framework
 Project: [AmritaCore](https://github.com/AmritaBot/AmritaCore)
-The underlying core runtime of the entire Amrita ecosystem. It features an independent pluggable event system, Depends concurrent condition matching, permission verification and context injection mechanism. It is built with the **Sense custom instruction virtual machine**, supports task interrupt/resume/callback queue execution, and is a lightweight, high-concurrency Agent core SDK.
+The underlying core runtime of the entire Amrita ecosystem. It features an independent pluggable event system, Depends concurrent condition matching, permission verification and context injection mechanism. It supports task interrupt/resume/callback queue execution, and is a lightweight, high-concurrency Agent core SDK.
 **Status: Available**
 
 ### 3. AmritaSense - Modern Agent Workflow Engine
