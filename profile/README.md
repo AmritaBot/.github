@@ -19,22 +19,23 @@ As a core component of the ecosystem, **AmritaBot is positioned as a dedicated t
 
 ## Core Projects & Project Status
 The Project.Amrita ecosystem has **five core independent projects** in total.
-Current progress: **AmritaCore and AmritaBot are officially available for production use**; **AmritaBase、AmritaSense、AmritaAgent are under intensive development**.
+Current progress: **AmritaCore is officially available for production use**; **AmritaSense has made its stunning debut (0.1.0rc1) and is available for preview**; **AmritaBot, AmritaBase, and AmritaAgent are under intensive development**.
 
 ### 1. AmritaBot - Integrated LLM Agent Chat Robot
 Project: [AmritaBot](https://github.com/AmritaBot/AmritaBot/)
 Built based on NoneBot2, it is a complete industrial-grade LLM intelligent agent bot solution. It has native concurrent security permission system, visual WebUI management panel, supports multiple large language model access and multi-adapter compatibility, and enables one-click deployment of scenario-oriented intelligent chat/functional agents.
 **Key Note**: Serves as the ecosystem's **technical experimentation platform** with **no i18n support**, avoiding complex callback issues and supporting real-time error log pushing for framework testing.
-**Status: Available**
+**Status: Under Construction**
 
 ### 2. AmritaCore - High-Performance Agent Runtime Core Framework
 Project: [AmritaCore](https://github.com/AmritaBot/AmritaCore)
 The underlying core runtime of the entire Amrita ecosystem. It features an independent pluggable event system, Depends concurrent condition matching, permission verification and context injection mechanism. It supports task interrupt/resume/callback queue execution, and is a lightweight, high-concurrency Agent core SDK.
 **Status: Available**
 
-### 3. AmritaSense - Modern Agent Workflow Engine
-Positioning: A modern alternative to LangGraph, dedicated to visual orchestration, complex multi-step task planning, state management and distributed intelligent agent workflow scheduling, empowering customized arrangement of complex Agent business logic.
-**Status: Under Construction**
+### 3. AmritaSense - General-Purpose Workflow Orchestration Engine
+Project: [AmritaSense](https://github.com/AmritaBot/AmritaSense)
+A **groundbreaking modern alternative to LangGraph**, it completely abandons the traditional graph model. Instead, it uses a **native Instruction-Set Architecture (ISA)** to orchestrate workflows. With its self-developed `PointerVector` addressing system, native `GOTO`/`CALL` semantics, and asynchronous interrupt mechanism based on `asyncio.Future`, it redefines the control and flexibility of workflow execution. It is the ideal choice for building visual orchestration, complex multi-step task planning, and distributed agent workflows.
+**Status: Available (0.1.0rc1)**
 
 ### 4. AmritaAgent - Advanced Autonomous Agent Orchestration Layer
 Responsible for multi-agent scheduling, long-term memory management, native tool calling capability, autonomous decision-making and complex cross-task collaborative planning, providing upper-layer autonomous intelligent agent core capabilities for the entire ecosystem.
