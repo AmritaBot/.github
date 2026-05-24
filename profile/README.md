@@ -1,7 +1,9 @@
-# AmritaBot
+# AmritaConstant
+
+<img width="512" height="256" alt="AmritaConstant" src="https://github.com/user-attachments/assets/4ef242de-5a36-4da7-a98e-d5a960c2e04a" />
 
 ## About Us
-AmritaBot is an open-source organization dedicated to building the **next-generation artificial intelligence application infrastructure** centered around the high-performance, lightweight, full-stack **AI Agent ecosystem (Project.Amrita)**. We focus on solving the pain points of heavyweight architecture, low concurrency and complex secondary development existing in mainstream Agent frameworks, providing developers with out-of-the-box, modular and highly extensible underlying infrastructure and application solutions for AI Agents, lowering the threshold for intelligent agent development and deployment.
+AmritaConstant is an open-source organization dedicated to building the **next-generation artificial intelligence application infrastructure** centered around the high-performance, lightweight, full-stack **AI Agent ecosystem (Project.Amrita)**. We focus on solving the pain points of heavyweight architecture, low concurrency and complex secondary development existing in mainstream Agent frameworks, providing developers with out-of-the-box, modular and highly extensible underlying infrastructure and application solutions for AI Agents, lowering the threshold for intelligent agent development and deployment.
 
 As a core component of the ecosystem, **AmritaBot is positioned as a dedicated technical experimentation platform** and **does not support internationalization (i18n)**. This design avoids complex callback logic and multi-scenario adaptation troubles in framework testing, and supports real-time error log pushing to ensure efficient iteration and debugging of the core Amrita architecture.
 
