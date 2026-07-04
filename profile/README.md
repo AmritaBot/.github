@@ -45,7 +45,12 @@ If you’re tired of “enterprise‑grade” bloat and curious about unproven b
 - **Telegram (Chinese)**: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+QRrsNnLUUSc1NzM1)
 - **QQ Group**: [![QQ](https://img.shields.io/badge/QQ-eb1923?style=for-the-badge&logo=tencent-qq&logoColor=white)](https://qm.qq.com/cgi-bin/qm/qr?k=1006893368) (ID: 1006893368)
 - **Discord**: [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/byAD3sbjjj)
-- **Docs**: [core.amritabot.com](https://core.amritabot.com)
+
+---
+
+### Docs**
+- [core.amritabot.com](https://core.amritabot.com)
+- [sense.amritabot.com](https://sense.amritabot.com)
 
 ---
 
